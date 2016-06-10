@@ -3,7 +3,7 @@ Those logo are copyright of the Systems Biology Institute. They are distributed 
 
 |thumbnail | download | comment |
 |:--------:|:--------:|:-------:|
-|![SBGN white 75px](/LogoWhiteBackBlackLetters-75.png) |	[download](/LogoWhiteBackBlackLetters-75.png) | Logo with white background and black letters, 75 pixels wide. |
+|![SBGN white 75px](/LogoWhiteBackBlackLetters-75.png) |	[download](https://raw.githubusercontent.com/sbgn/logos/master/LogoWhiteBackBlackLetters-75.png) | Logo with white background and black letters, 75 pixels wide. |
 
 	download 	Logo with white background and black letters, 150 pixels wide.
 
